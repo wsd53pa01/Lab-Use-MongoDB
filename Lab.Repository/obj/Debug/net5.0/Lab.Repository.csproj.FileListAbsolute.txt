@@ -1,0 +1,15 @@
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\bin\Debug\net5.0\Lab.Repository.deps.json
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\bin\Debug\net5.0\Lab.Repository.dll
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\bin\Debug\net5.0\ref\Lab.Repository.dll
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\bin\Debug\net5.0\Lab.Repository.pdb
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\bin\Debug\net5.0\Lab.Core.dll
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\bin\Debug\net5.0\Lab.Core.pdb
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\obj\Debug\net5.0\Lab.Repository.csprojAssemblyReference.cache
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\obj\Debug\net5.0\Lab.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\obj\Debug\net5.0\Lab.Repository.AssemblyInfoInputs.cache
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\obj\Debug\net5.0\Lab.Repository.AssemblyInfo.cs
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\obj\Debug\net5.0\Lab.Repository.csproj.CoreCompileInputs.cache
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\obj\Debug\net5.0\Lab.Repository.csproj.CopyComplete
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\obj\Debug\net5.0\Lab.Repository.dll
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\obj\Debug\net5.0\ref\Lab.Repository.dll
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Repository\obj\Debug\net5.0\Lab.Repository.pdb

@@ -1,0 +1,12 @@
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\obj\Debug\net5.0\Lab.Core.csprojAssemblyReference.cache
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\obj\Debug\net5.0\Lab.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\obj\Debug\net5.0\Lab.Core.AssemblyInfoInputs.cache
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\obj\Debug\net5.0\Lab.Core.AssemblyInfo.cs
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\obj\Debug\net5.0\Lab.Core.csproj.CoreCompileInputs.cache
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\bin\Debug\net5.0\Lab.Core.deps.json
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\bin\Debug\net5.0\Lab.Core.dll
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\bin\Debug\net5.0\ref\Lab.Core.dll
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\bin\Debug\net5.0\Lab.Core.pdb
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\obj\Debug\net5.0\Lab.Core.dll
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\obj\Debug\net5.0\ref\Lab.Core.dll
+C:\Users\t179012\Desktop\temp\use_mongo_db\Lab.Core\obj\Debug\net5.0\Lab.Core.pdb
